@@ -263,7 +263,7 @@ msgstr ""
 #: 3.8/weather-applet.js:11576 3.8/weather-applet.js:12014
 #: 3.8/weather-applet.js:12519 3.8/weather-applet.js:12881
 msgid "Feels Like"
-msgstr "Si sente come"
+msgstr "Percepita"
 
 #: 3.0/climacell.js:174 3.0/darkSky.js:189 3.0/yahoo.js:166
 #: 3.8/weather-applet.js:10389
